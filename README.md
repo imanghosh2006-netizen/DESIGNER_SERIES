@@ -67,4 +67,4 @@ Unlike traditional "painting" apps that forget pixels once drawn, **DESIGNER_SER
 - [ ] Dark Mode UI Toggle
 
 ---
-Developed as part of the **DESIGNER_SERIES** project.
+Developed as part of the **DESIGNER_SERIES** project.LICENSE
