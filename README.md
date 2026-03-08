@@ -50,6 +50,10 @@ Unlike traditional "painting" apps that forget pixels once drawn, **DESIGNER_SER
 
 ---
 
+Check this out!
+
+
+
 ## ⌨️ Hotkeys
 
 | Key | Action |
